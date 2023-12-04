@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  margin-top:20px;
+}
+.button1{
+  margin-top: 20px;
+}
+
+.contextInput{
+  margin-top: 100px;
+}
+.contextView{
+  margin-top: 20px;
+}
+.input1{
+  margin-top: 20px;
+}
+.Wrapper{
+  border:2px solid black;
+}
+.Hello{
+  border:1px dotted green ;
+}
+li{
+  list-style-type: none;
+}
